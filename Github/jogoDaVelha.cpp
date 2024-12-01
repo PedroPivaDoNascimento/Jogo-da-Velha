@@ -1,3 +1,5 @@
+//ATENÇÃO, Esse código só funciona em distribuições linux
+
 #include <iostream>
 
 using namespace std;
